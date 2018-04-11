@@ -1,0 +1,27 @@
+{
+    "name": "cordova-plugin-push",
+    "version": "2.3.17",
+    "description": "push notifications cordova",
+    "main": "www/ModusEchoSwift.js",
+    "cordova": {
+      "id": "cordova-plugin-push",
+      "platforms": [
+        "ios"
+      ]
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Yezen Alnafei",
+    "license": "ISC",
+    "devDependencies": {
+      "@types/cordova": "0.0.34",
+      "typescript": "^2.4.2"
+    },
+    "dependencies": {
+      "@angular/core": "^4.4.4",
+      "@types/cordova": "0.0.34",
+      "cordova": "^7.0.1"
+    }
+  }
+  
